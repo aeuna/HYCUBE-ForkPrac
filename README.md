@@ -8,3 +8,4 @@
 | Hanseo An     | Student    |     |
 | jiho5993      | Student    |     |
 | Carly         | Student    |     |
+| Eunah Lee     | Student    |     |
